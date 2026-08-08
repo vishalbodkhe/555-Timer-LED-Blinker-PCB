@@ -63,7 +63,7 @@ The board includes:
 
 ## 3D PCB View
 
-![3D PCB View](3D_PCB_View.png)
+![3D PCB View](3D_PCB_View.png.png)
 
 ## Design Verification
 
